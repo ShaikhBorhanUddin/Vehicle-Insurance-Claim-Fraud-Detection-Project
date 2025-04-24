@@ -43,4 +43,6 @@ From the the charts above we see that in May and January, insurance holders file
   <img src="https://github.com/ShaikhBorhanUddin/Vehicle-Insurance-Claim-Fraud-Detection-Project/blob/main/Images/bar_chart_of_age_of_policy_holder.png?raw=true" alt="Bar Chart of Age of Policy Holder" width="32.5%" />
 </p>
 
+Some demographic information were also visualized. Most of the insurance holders are either married or single. Very few are divorced or widow. Also, the dataset is biased towards males while comparing with females. If we consider age groups, most of the insurance holders are from 30 to 50 years old.
+
 
