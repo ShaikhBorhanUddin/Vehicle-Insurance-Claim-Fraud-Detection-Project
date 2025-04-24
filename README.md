@@ -61,6 +61,8 @@ Most of the vehicles listed in the dataset are either sedans sports category. Mo
 ## Experiments
 For training quick, all model instaces were created simultaneously. There was no issues during training.
 
+![Dashboard](https://github.com/ShaikhBorhanUddin/Vehicle-Insurance-Claim-Fraud-Detection-Project/blob/main/Images/model_training.png?raw=true)
+
 ## Folder Structure
 
 ## Workflow
