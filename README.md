@@ -58,3 +58,24 @@ Most of the insurance holders do not report to police. Besides, for most cases t
 </p>
 
 Most of the vehicles listed in the dataset are either sedans sports category. Most of them has price tage less than 40000.
+## Experiments
+For training quick, all model instaces were created simultaneously. There was no issues during training.
+
+## Folder Structure
+
+## Workflow
+
+## Results
+
+## ROC and PR Curves
+
+## Confusion Matrix
+
+## Technology
+
+## Future Development
+
+## Licence
+
+## Contact
+
