@@ -27,5 +27,14 @@ The dataset [`Vehicle Insurance Claim Fraud Detection`](https://www.kaggle.com/d
   <img src="https://github.com/ShaikhBorhanUddin/Vehicle-Insurance-Claim-Fraud-Detection-Project/blob/main/Images/bar_chart_of_month.png?raw=true" alt="Bar Chart of Month" width="54%" />
   <img src="https://github.com/ShaikhBorhanUddin/Vehicle-Insurance-Claim-Fraud-Detection-Project/blob/main/Images/bar_chart_of_day_of_week.png?raw=true" alt="Bar Chart of Day of Week" width="43.15%" />
 </p>
-The first bar chart displays monthwise count of accidents. We can see that accidents occur the most in January and least in August. The second bar chart counts daywise accidents. It is evident that first and last working days of the week see the highest number of accidents while least on sundays.
+
+The first bar chart displays monthwise count of accidents. We can see that accidents occur the most in January and least in August. The second bar chart counts daywise accidents. It is evident that first and last working days of the week see the highest number of accidents while least on sundays. 
+
+<p align="center">
+  <img src="https://github.com/ShaikhBorhanUddin/Vehicle-Insurance-Claim-Fraud-Detection-Project/blob/main/Images/bar_chart_of_day_of_week_claimed.png?raw=true" alt="Bar Chart of Day of Week Claimed" width="49%" />
+  <img src="https://github.com/ShaikhBorhanUddin/Vehicle-Insurance-Claim-Fraud-Detection-Project/blob/main/Images/bar_chart_of_month_claimed.png?raw=true" alt="Bar Chart of Month Claimed" width="49%" />
+</p>
+
+From the the charts above we see that in May and January, insurance holders file for accident insurance claims the most, while lowest in August. Also, claims are high in weekdays but very few in weekends.
+
 
