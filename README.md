@@ -45,4 +45,16 @@ From the the charts above we see that in May and January, insurance holders file
 
 Some demographic information were also visualized. Most of the insurance holders are either married or single. Very few are divorced or widow. Also, the dataset is biased towards males while comparing with females. If we consider age groups, most of the insurance holders are from 30 to 50 years old.
 
+<p align="center">
+  <img src="https://github.com/ShaikhBorhanUddin/Vehicle-Insurance-Claim-Fraud-Detection-Project/blob/main/Images/bar_chart_of_police_report_filed.png?raw=true" alt="Bar Chart of Police Report Filed" width="49%" />
+  <img src="https://github.com/ShaikhBorhanUddin/Vehicle-Insurance-Claim-Fraud-Detection-Project/blob/main/Images/bar_chart_of_witness_present.png?raw=true" alt="Bar Chart of Witness Present" width="49%" />
+</p>
 
+Most of the insurance holders do not report to police. Besides, for most cases there are no eye witness.
+
+<p align="center">
+  <img src="https://github.com/ShaikhBorhanUddin/Vehicle-Insurance-Claim-Fraud-Detection-Project/blob/main/Images/bar_chart_of_vehicle_category.png?raw=true" alt="Bar Chart of Vehicle Category" width="49%" />
+  <img src="https://github.com/ShaikhBorhanUddin/Vehicle-Insurance-Claim-Fraud-Detection-Project/blob/main/Images/bar_chart_of_vehicle_price.png?raw=true" alt="Bar Chart of Vehicle Price" width="49%" />
+</p>
+
+Most of the vehicles listed in the dataset are either sedans sports category. Most of them has price tage less than 40000.
