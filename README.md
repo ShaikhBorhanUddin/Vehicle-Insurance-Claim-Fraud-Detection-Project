@@ -37,4 +37,10 @@ The first bar chart displays monthwise count of accidents. We can see that accid
 
 From the the charts above we see that in May and January, insurance holders file for accident insurance claims the most, while lowest in August. Also, claims are high in weekdays but very few in weekends.
 
+<p align="center">
+  <img src="https://github.com/ShaikhBorhanUddin/Vehicle-Insurance-Claim-Fraud-Detection-Project/blob/main/Images/bar_chart_of_sex.png?raw=true" alt="Bar Chart of Sex" width="33%" />
+  <img src="https://github.com/ShaikhBorhanUddin/Vehicle-Insurance-Claim-Fraud-Detection-Project/blob/main/Images/bar_chart_of_marital_status.png?raw=true" alt="Bar Chart of Marital Status" width="33%" />
+  <img src="https://github.com/ShaikhBorhanUddin/Vehicle-Insurance-Claim-Fraud-Detection-Project/blob/main/Images/bar_chart_of_age_of_policy_holder.png?raw=true" alt="Bar Chart of Age of Policy Holder" width="33%" />
+</p>
+
 
