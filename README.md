@@ -64,6 +64,19 @@ For training quick, all model instaces were created simultaneously. There was no
 ![Dashboard](https://github.com/ShaikhBorhanUddin/Vehicle-Insurance-Claim-Fraud-Detection-Project/blob/main/Images/model_training.png?raw=true)
 
 ## Folder Structure
+```bash
+Email-and-SMS-Spam-Detection-Project
+│
+├── Dataset/                # Contains raw CSV files
+├── src/                    # Model training, preprocessing scripts                 
+│     |
+|     └──   CNN_Spam_Detection_Dataset_214843.ipynb
+|
+├── Images/                 
+├── requirements.txt        # Python dependencies
+├── Licence                 # MIT License
+└── README.md               # Overview of the project
+```
 
 ## Workflow
 
