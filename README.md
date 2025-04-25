@@ -58,10 +58,6 @@ Most of the insurance holders do not report to police. Besides, for most cases t
 </p>
 
 Most of the vehicles listed in the dataset are either sedans sports category. Most of them has price tage less than 40000.
-## Experiments
-For training quick, all model instaces were created simultaneously. There was no issues during training.
-
-![Dashboard](https://github.com/ShaikhBorhanUddin/Vehicle-Insurance-Claim-Fraud-Detection-Project/blob/main/Images/model_training.png?raw=true)
 
 ## Folder Structure
 ```bash
@@ -89,6 +85,10 @@ This project follows a clear and structured pipeline to build, train, and interp
 - Visualize Decisions with Tools
 - Suggest Future Development
 
+## Experiments
+For training quick, all model instaces were created simultaneously. There was no issues during training.
+
+![Dashboard](https://github.com/ShaikhBorhanUddin/Vehicle-Insurance-Claim-Fraud-Detection-Project/blob/main/Images/model_training.png?raw=true)
 
 ## Results
 
@@ -130,7 +130,11 @@ The Logistic Regression and AdaBoost models both achieved perfect classification
 
 These confusion matrices clearly reveal that models like Logistic Regression, SVM, and AdaBoost struggled due to extreme class imbalance, while XGBoost and Decision Tree showed the best ability to identify both fraudulent and non-fraudulent claims effectively.
 
-## Technology
+## Technology Used
+
+This project was developed using various data science and machine learning technologies to ensure effective fraud detection. Python was the main programming language utilized, taking advantage of its extensive library ecosystem for data processing and modeling.
+
+Data manipulation and preprocessing were conducted with Pandas and NumPy, while Matplotlib and Seaborn were used for visualizations. For building and evaluating machine learning models, libraries such as scikit-learn and XGBoost were employed. Model performance was assessed using metrics including Accuracy, Precision, Recall, F1-score, Confusion Matrix, ROC and PR curves.
 
 ## Future Development
 
