@@ -102,7 +102,15 @@ This project follows a clear and structured pipeline to build, train, and interp
 
 ## ROC and PR Curves
 
+<p align="center">
+  <img src="https://github.com/ShaikhBorhanUddin/Vehicle-Insurance-Claim-Fraud-Detection-Project/blob/main/Images/ROC.png?raw=true" alt="ROC Curve" width="49%" />
+  <img src="https://github.com/ShaikhBorhanUddin/Vehicle-Insurance-Claim-Fraud-Detection-Project/blob/main/Images/PR.png?raw=true" alt="Precision-Recall Curve" width="49%" />
+</p>
+
+
 ## Confusion Matrix
+
+![Dashboard](https://github.com/ShaikhBorhanUddin/Vehicle-Insurance-Claim-Fraud-Detection-Project/blob/main/Images/cm.png?raw=true)
 
 ## Technology
 
