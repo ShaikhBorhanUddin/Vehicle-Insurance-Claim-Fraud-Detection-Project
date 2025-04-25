@@ -7,6 +7,7 @@
   <img src="https://img.shields.io/github/last-commit/ShaikhBorhanUddin/Vehicle-Insurance-Claim-Fraud-Detection-Project" alt="Last Commit">
   <img src="https://img.shields.io/github/issues/ShaikhBorhanUddin/Vehicle-Insurance-Claim-Fraud-Detection-Project" alt="Issues">
   <img src="https://img.shields.io/badge/Data%20Visualization-Python-yellow?logo=python" alt="Data Visualization: Python">
+  <img src="https://img.shields.io/badge/Result%20Visualization-LIME-green?style=flat&logo=LIME" alt="Result Visualization: LIME">
   <img src="https://img.shields.io/badge/Version%20Control-Git-orange?logo=git" alt="Version Control: Git">
   <img src="https://img.shields.io/badge/Host-GitHub-black?logo=github" alt="Host: GitHub">
   <img src="https://img.shields.io/github/forks/ShaikhBorhanUddin/Vehicle-Insurance-Claim-Fraud-Detection-Project?style=social" alt="Forks">
