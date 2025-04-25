@@ -146,11 +146,16 @@ These confusion matrices clearly reveal that models like Logistic Regression, SV
 
 ## Visualization
 
+Decision Tree and XGBoost exhibited balanced results, making them suitable for visualization. Below are images showcasing a random sample.
+
 <p align="center">
   <img src="https://github.com/ShaikhBorhanUddin/Vehicle-Insurance-Claim-Fraud-Detection-Project/blob/main/Images/lime_decision_tree.png?raw=true" alt="LIME Decision Tree" width="49%" />
   <img src="https://github.com/ShaikhBorhanUddin/Vehicle-Insurance-Claim-Fraud-Detection-Project/blob/main/Images/lime_xgboost.png?raw=true" alt="LIME XGBoost" width="47.55%" />
 </p>
 
+The Decision Tree model predicts the sample image (shown on the left) as **`Fraud`** with 100% confidence because multiple key features strongly align with patterns observed in fraud cases. For example, features such as `BasePolicy=1.00`, `Days_Policy_Accident=3.00`, `WitnessPresent=0.00`, `VehicleCategory=0.00`, and `PastNumberOfClaims=0.00` are associated with the **`Fraud`** category. Although features like `Fault=1.00`, `RepNumber=4.00`, and `Make=13.00` indicate a connection to **`not Fraud`**, they are not strong enough to override the final decision.
+
+XGBoost classifies the sample as **`Fraud`** (as visualized in the image on the right). Key features associated with this classification include `BasePolicy=1.00`, `VehiclePrice=0.00`, `DayOfWeekClaimed=5.00`, and `Age=42.0`. On the other hand, certain features like `Month=2.00`, `DriverRating=1.00`, `PoliceReportFiled=0.00`, `MonthClaimed=2.00`, and `Make=13.00` are aligned with the **`not Fraud`** classification; however, their influence on the prediction is minimal.
 
 ## Technology Used
 
