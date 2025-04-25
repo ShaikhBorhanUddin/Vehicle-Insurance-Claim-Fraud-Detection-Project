@@ -130,6 +130,10 @@ The Logistic Regression and AdaBoost models both achieved perfect classification
 
 These confusion matrices clearly reveal that models like Logistic Regression, SVM, and AdaBoost struggled due to extreme class imbalance, while XGBoost and Decision Tree showed the best ability to identify both fraudulent and non-fraudulent claims effectively.
 
+## Visualization
+
+
+
 ## Technology Used
 
 This project was developed using various data science and machine learning technologies to ensure effective fraud detection. Python was the main programming language utilized, taking advantage of its extensive library ecosystem for data processing and modeling.
