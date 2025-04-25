@@ -150,5 +150,8 @@ To improve the effectiveness of the fraud detection system, future efforts shoul
 
 ## Licence
 
+This project is licensed under the MIT License.
+You are free to use, modify, and distribute this project for personal or commercial purposes, provided that proper credit is given to the original author. See the LICENSE file for full details.
+
 ## Contact
 
