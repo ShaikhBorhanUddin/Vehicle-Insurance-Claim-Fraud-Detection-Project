@@ -138,6 +138,8 @@ Data manipulation and preprocessing were conducted with Pandas and NumPy, while 
 
 ## Future Development
 
+To improve the effectiveness of the fraud detection system, future efforts should focus on expanding the dataset to include a wider range of recent fraud patterns. This enhancement would help the model generalize better. Additionally, implementing ensemble stacking techniques or incorporating deep learning models, such as neural networks, could potentially increase recall without compromising precision. Furthermore, integrating real-time detection capabilities and deploying the model via a web-based dashboard would enable practical and scalable use in production environments. Lastly, applying feature engineering with insights specific to the domain could significantly enhance the model's performance.
+
 ## Licence
 
 ## Contact
