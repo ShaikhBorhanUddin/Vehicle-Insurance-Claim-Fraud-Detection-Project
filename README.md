@@ -132,6 +132,10 @@ These confusion matrices clearly reveal that models like Logistic Regression, SV
 
 ## Visualization
 
+<p align="center">
+  <img src="https://github.com/ShaikhBorhanUddin/Vehicle-Insurance-Claim-Fraud-Detection-Project/blob/main/Images/lime_decision_tree.png?raw=true" alt="LIME Decision Tree" width="49%" />
+  <img src="https://github.com/ShaikhBorhanUddin/Vehicle-Insurance-Claim-Fraud-Detection-Project/blob/main/Images/lime_xgboost.png?raw=true" alt="LIME XGBoost" width="47.55%" />
+</p>
 
 
 ## Technology Used
