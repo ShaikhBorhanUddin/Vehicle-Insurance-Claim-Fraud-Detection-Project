@@ -92,6 +92,14 @@ This project follows a clear and structured pipeline to build, train, and interp
 
 ## Results
 
+<p align="center">
+  <img src="https://github.com/ShaikhBorhanUddin/Vehicle-Insurance-Claim-Fraud-Detection-Project/blob/main/Images/accuracy.png?raw=true" alt="Accuracy" width="24%" />
+  <img src="https://github.com/ShaikhBorhanUddin/Vehicle-Insurance-Claim-Fraud-Detection-Project/blob/main/Images/precision.png?raw=true" alt="Precision" width="24%" />
+  <img src="https://github.com/ShaikhBorhanUddin/Vehicle-Insurance-Claim-Fraud-Detection-Project/blob/main/Images/recall.png?raw=true" alt="Recall" width="24%" />
+  <img src="https://github.com/ShaikhBorhanUddin/Vehicle-Insurance-Claim-Fraud-Detection-Project/blob/main/Images/F1.png?raw=true" alt="F1 Score" width="24%" />
+</p>
+
+
 ## ROC and PR Curves
 
 ## Confusion Matrix
